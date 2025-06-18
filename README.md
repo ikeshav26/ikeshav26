@@ -76,6 +76,8 @@ const Keshav = {
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" height="25px"/>
+
  
 
 | ------------- | ------------- |
