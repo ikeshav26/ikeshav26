@@ -77,6 +77,9 @@ const Keshav = {
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" height="25px"/>
+<a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" height="25px"/>
+</a>
 
  
 
