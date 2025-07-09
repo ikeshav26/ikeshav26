@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
+  <img src="https://github.com/keshav-gilhotra/keshav-gilhotra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation showing contribution activity" width="100%" />
 </p>
+
 
 <p>
 Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
