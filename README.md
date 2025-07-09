@@ -1,18 +1,17 @@
 <h2 align="center">Hi, I'm Keshav Gilhotra 👋</h2>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+Stack+developer;" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/keshav-gilhotra/keshav-gilhotra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation showing contribution activity" width="100%" />
+  <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" />
 </p>
 
-
-<p>
-Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
+<p align="center">
+Self-learned and self-motivated Web Developer with moderate experience working on multiple projects. Passionate, hardworking, and constantly learning new technologies. Promotes best practices in web design and offers diverse project portfolios.
 </p>
 
 ---
@@ -20,61 +19,51 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 ### 🐍 Contribution Graph Snake Animation
 
 <p align="center">
-  <img src="https://github.com/keshav-gilhotra/keshav-gilhotra/raw/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/keshav-gilhotra/keshav-gilhotra/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/keshav-gilhotra/keshav-gilhotra/raw/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/keshav-gilhotra/keshav-gilhotra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation showing contribution activity" width="100%" />
+  </picture>
 </p>
 
 ---
 
+### 🧑‍💻 Talking about Personal Stuffs:
 
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+- 🔭 I’m currently working on `Something Interesting`
+- 🌱 I’m currently learning **Next.js & TypeScript**
+- 👯 I’m looking to collaborate on `Dev Projects`
+- 🤔 I’m looking for help with `Competitive Programming`
+- 💬 Ask me about anything except **Chemistry** 😅
+- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you learn 🎉
+- ⚡ Fun fact: I waste most of my time playing **BGMI**
 
-</p>
+---
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<br>
-  
-**Talking about Personal Stuffs:**
-<ul>
-  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
-  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
-  <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
-  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
-  <li>- 💬 Ask me about anything, Except Chemistry :sweat_smile:</li>
-  <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
-  <li>- ⚡ Fun fact: I waste most of my time playing bgmi</li>
-</ul>
+### ✨ A little more about me
 
-
-#### A little more about me
-```javascript
 const Keshav = {
   pronouns: "He" | "Him",
-  age: 18 ,
-  code: ["Javascript", "Python", "HTML", "CSS", "C"],
-  askMeAbout: ["web dev", "frontend dev", "backend dev" ],
+  age: 18,
+  code: ["JavaScript", "Python", "HTML", "CSS", "C"],
+  askMeAbout: ["web dev", "frontend dev", "backend dev"],
   technologies: {
-      frontend: {
-          js: ["React JS", "Next JS" , "Typescript"],
-          css: ["Tailwind CSS", "Bootstarp"],
-          animation: ["GSAP"],
-      },
-      backend : {
-           libraries: [
-              "Expressjs", 
-              "Next JS",
-              "Multer"
-             ],
-           database : "mongodb",
-      },
-      codeEditor: {
-          competitiveProgramming: ["VS Code"],
-          frontEndDev: ["VS Code"]
-      }
-  }
-}
-```
+    frontend: {
+      js: ["React JS", "Next JS", "TypeScript"],
+      css: ["Tailwind CSS", "Bootstrap"],
+      animation: ["GSAP"],
+    },
+    backend: {
+      libraries: ["Express.js", "Next JS", "Multer"],
+      database: "MongoDB",
+    },
+    codeEditor: {
+      competitiveProgramming: ["VS Code"],
+      frontEndDev: ["VS Code"],
+    },
+  },
+};
+
 
 ## 🛠️ Technologies and Tools I use:
 
