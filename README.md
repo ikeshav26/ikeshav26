@@ -1,86 +1,126 @@
-<h2 align="center">Hi, I'm Keshav Gilhotra 👋</h2>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+Stack+developer;" /></a>
-</p>
+# Hi there, I'm Keshav Gilhotra! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
-</p>
-<p>
-Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
-</p>
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<br>
+## 🎮 Snake eating my contributions!
+
+<div align="center">
   
-**Talking about Personal Stuffs:**
-<ul>
-  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
-  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
-  <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
-  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
-  <li>- 💬 Ask me about anything, Except Chemistry :sweat_smile:</li>
-  <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
-  <li>- ⚡ Fun fact: I waste most of my time playing bgmi</li>
-</ul>
+![Snake Game](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/github-contribution-grid-snake.svg)
 
+</div>
 
-#### A little more about me
-```javascript
-const Keshav = {
-  pronouns: "He" | "Him",
-  age: 18 ,
-  code: ["Javascript", "Python", "HTML", "CSS", "C"],
-  askMeAbout: ["web dev", "frontend dev", "backend dev" ],
-  technologies: {
-      frontend: {
-          js: ["React JS", "Next JS" , "Typescript"],
-          css: ["Tailwind CSS", "Bootstarp"],
-          animation: ["GSAP"],
-      },
-      backend : {
-           libraries: [
-              "Expressjs", 
-              "Next JS",
-              "Multer"
-             ],
-           database : "mongodb",
-      },
-      codeEditor: {
-          competitiveProgramming: ["VS Code"],
-          frontEndDev: ["VS Code"]
-      }
-  }
-}
-```
+---
 
-## 🛠️ Technologies and Tools I use:
+## 🚀 About Me
 
-<p>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" height="25px"/>
-<a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" height="25px"/>
-</a>
+- 👨‍💻 **Name:** Keshav Gilhotra
+- 🎂 **Age:** 18 years old
+- 💼 **Role:** Full Stack Developer & Student
+- 🌱 **Currently Learning:** Next.js, TypeScript, Advanced React Patterns
+- 🔭 **Working On:** Building scalable web applications
+- 👯 **Open To:** Collaborate on interesting projects
+- 🎯 **Goal:** Contributing to open source and building impactful solutions
+- ⚡ **Fun Fact:** I spend most of my time coding and playing BGMI!
 
- 
+---
 
-| ------------- | ------------- |
+## 🛠️ Tech Stack & Skills
+
+### **Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### **Styling & UI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+</p>
+
+### **Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### **Tools & Others**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikeshav26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeshav26&theme=tokyonight&hide_border=true&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikeshav26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ikeshav26&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikeshav26&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-gilhotra-615654372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KeshavGilh5995)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keshav_gilhotra_/?hl=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ikeshav.tech)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💖 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=ikeshav26&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+**⭐ Star some repositories if you find them interesting!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+</div>
