@@ -20,23 +20,47 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Name:** Keshav Gilhotra
-- 🎂 **Age:** 18 years old
-- 💼 **Role:** Full Stack Developer & Student
-- 🌱 **Currently Learning:** Next.js, TypeScript, Advanced React Patterns
-- 🔭 **Working On:** Building scalable web applications
-- 👯 **Open To:** Collaborate on interesting projects
-- 🎯 **Goal:** Contributing to open source and building impactful solutions
-- ⚡ **Fun Fact:** I spend most of my time coding and playing BGMI!
+<div align="center">
+  
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<div align="left" style="width: 50%;">
+
+```yaml
+name: Keshav Gilhotra | located_in: India | age: 18
+current_role: Full Stack Developer & Student
+education: ["Self-Taught Developer", "Continuous Learner"]
+
+fields_of_interests: ["Web Development", "Open Source", "Mobile Development", "Cloud Technologies"]
+currently_learning: ["Next.js", "TypeScript", "Advanced React Patterns"]
+currently_working_on: ["Building scalable web applications", "Contributing to open source"]
+2025_goals: ["Master full-stack development", "Build impactful solutions"]
+```
+
+<div align="center">
+
+### 💡 Quick Facts
+
+🎯 **Goal:** Contributing to open source and building impactful solutions  
+👯 **Open To:** Collaborate on interesting projects  
+⚡ **Fun Fact:** I spend most of my time coding and playing BGMI!  
+📫 **Reach Me:** [ikeshav.tech](https://ikeshav.tech)
+
+</div>
+
+</div>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -44,7 +68,7 @@
 </p>
 
 ### **Styling & UI**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
@@ -52,24 +76,39 @@
 </p>
 
 ### **Backend & Database**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ### **Tools & Others**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
+  <img src="https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
+
 ---
+
+## 🎖️ Holopin Badges
+
+<div align="center">
+  
+[![@ikeshav26's Holopin board](https://holopin.me/ikeshav26)](https://holopin.io/@ikeshav26)
+
+</div>
+
+---
+
 
 ## 📊 GitHub Statistics
 
@@ -81,24 +120,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikeshav26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikeshav26&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikeshav26&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
