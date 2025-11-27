@@ -44,7 +44,7 @@ currently_working_on: ["Building scalable web applications", "Contributing to op
 🎯 **Goal:** Contributing to open source and building impactful solutions  
 👯 **Open To:** Collaborate on interesting projects  
 ⚡ **Fun Fact:** I spend most of my time coding and playing BGMI!  
-📫 **Reach Me:** [ikeshav.tech](https://ikeshav.tech)
+📫 **Reach Me:** [ikeshav.tech](https://portfolio.ikeshav.tech)
 
 </div>
 
