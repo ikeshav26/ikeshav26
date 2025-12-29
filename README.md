@@ -1,7 +1,7 @@
 # Hi there, I'm Keshav Gilhotra! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 <p align="center">
