@@ -13,21 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: output
 
       - uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
           strategy: 'random'
-
-      - name: Push game.gif to output branch
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          cp game.gif /tmp/game.gif
-          git fetch origin output
-          git checkout output
-          cp /tmp/game.gif game.gif
-          git add game.gif
-          git diff --staged --quiet || git commit -m "🎮 Update Space Shooter Game"
-          git push origin output
+          commit-message: '🎮 Update Space Shooter Game'
