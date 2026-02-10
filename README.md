@@ -18,6 +18,16 @@
 
 ---
 
+## 🚀 Space Shooter Game
+
+<div align="center">
+
+![Space Shooter](./game.gif)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 <div align="center">
