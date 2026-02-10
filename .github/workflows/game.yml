@@ -20,10 +20,12 @@ jobs:
           output-path: 'game.gif'
           strategy: 'random'
 
-      - name: Commit and push game.gif
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add game.gif
-          git diff --staged --quiet || git commit -m "🎮 Update Space Shooter Game"
-          git push
+      - name: Push game.gif to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: false
+          commit_message: "🎮 Update Space Shooter Game"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

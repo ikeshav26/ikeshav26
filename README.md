@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Space Shooter](./game.gif)
+![Space Shooter](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/game.gif)
 
 </div>
 
