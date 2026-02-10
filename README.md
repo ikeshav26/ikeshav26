@@ -8,14 +8,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
-## 🎮 Snake eating my contributions!
-
-<div align="center">
-  
-![Snake Game](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## 🚀 Space Shooter Game
@@ -23,42 +15,6 @@
 <div align="center">
 
 ![Space Shooter](./game.gif)
-
-</div>
-
----
-
-## 🚀 About Me
-
-<div align="center">
-  
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left" style="width: 50%;">
-
-```yaml
-name: Keshav Gilhotra | located_in: India | age: 18
-current_role: Full Stack Developer & Student
-education: ["Self-Taught Developer", "Continuous Learner"]
-
-fields_of_interests: ["Web Development", "Open Source", "Mobile Development", "Cloud Technologies"]
-currently_learning: ["Next.js", "TypeScript", "Advanced React Patterns"]
-currently_working_on: ["Building scalable web applications", "Contributing to open source"]
-2025_goals: ["Master full-stack development", "Build impactful solutions"]
-```
-
-<div align="center">
-
-### 💡 Quick Facts
-
-🎯 **Goal:** Contributing to open source and building impactful solutions  
-👯 **Open To:** Collaborate on interesting projects  
-⚡ **Fun Fact:** I spend most of my time coding and playing VALORANT!  
-📫 **Reach Me:** [ikeshav.tech](https://portfolio.ikeshav.tech)
-
-</div>
-
-</div>
 
 </div>
 
@@ -129,17 +85,6 @@ currently_working_on: ["Building scalable web applications", "Contributing to op
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikeshav26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeshav26&theme=tokyonight&hide_border=true&layout=compact"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikeshav26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ## 🤝 Let's Connect
 
