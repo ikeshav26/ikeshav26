@@ -24,6 +24,9 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -34,13 +37,18 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
-      # generate the space shooter game gif
-      - name: generate shooter game
-        uses: czl9707/gh-space-shooter@v1
+      # generate the space shooter game gif (using CLI directly to avoid the action's built-in commit)
+      - name: setup python
+        uses: actions/setup-python@v5
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'dist/game.gif'
-          strategy: 'random'
+          python-version: '3.13'
+
+      - name: generate shooter game
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install gh-space-shooter
+          gh-space-shooter ${{ github.repository_owner }} --output dist/game.gif --strategy random
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
