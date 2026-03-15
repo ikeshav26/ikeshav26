@@ -6,17 +6,14 @@ I'm **Keshav Gilhotra**, a CSE 2nd year student who loves building things and le
 
 </div>
 
----
-
 <div align="center">
 
-## Space Shooter Game
+
+
 
 ![Space Shooter](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/game.gif)
 
 </div>
-
----
 
 <div align="center">
 
@@ -25,8 +22,6 @@ I'm **Keshav Gilhotra**, a CSE 2nd year student who loves building things and le
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,redis,docker,aws,nginx,linux,git,github,vscode,idea,java,python,c,cpp&perline=11)](https://skillicons.dev)
 
 </div>
-
----
 
 <div align="center">
 
