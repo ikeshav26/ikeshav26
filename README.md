@@ -1,5 +1,14 @@
-I'm **Keshav Gilhotra**, a Computer Science Engineering 2nd year student with a passion for building things and constantly learning. I enjoy exploring new technologies and contributing to open source projects. My interests span across **Full Stack Development**, **DevOps**, **System Design**, **App Development**, and **AI Integration**, and anything that pushes the boundaries of what can be built with code. I believe in learning by doing and love turning ideas into real projects. I also enjoy applying my technical skills to solve real-life problems — if there's a solution I can build, I'll build it.
+# Hi, I'm Keshav Gilhotra 👋
 
+---
+
+## 👨‍💻 About Me
+
+I'm **Keshav Gilhotra**, a CSE 2nd year student who loves building things and learning new technologies. I contribute to open source and enjoy working across **Full Stack Development**, **DevOps**, **System Design**, **App Development**, and **AI Integration**. I also like using my skills to solve real-life problems — if I can build a solution, I will.
+
+---
+
+## 🚀 Space Shooter Game
 
 <div align="center">
 
@@ -7,15 +16,19 @@ I'm **Keshav Gilhotra**, a Computer Science Engineering 2nd year student with a 
 
 </div>
 
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,redis,docker,aws,nginx,git,github,vscode,java,python,c,cpp&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,redis,docker,aws,nginx,linux,git,github,vscode,idea,java,python,c,cpp&perline=11)](https://skillicons.dev)
 
 </div>
 
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
 
@@ -23,5 +36,13 @@ I'm **Keshav Gilhotra**, a Computer Science Engineering 2nd year student with a 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KeshavGilh5995)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keshav_gilhotra_/?hl=en)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.ikeshav.tech)
+
+</div>
+
+---
+
+<div align="center">
+
+![Pacman](https://raw.githubusercontent.com/ikeshav26/ikeshav26/output/github-contribution-grid-pacman.svg)
 
 </div>
