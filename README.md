@@ -19,7 +19,7 @@ I'm **Keshav Gilhotra**, a CSE 2nd year student who loves building things and le
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,aws,nginx,kafka,linux,git,github,vscode,idea,java,python,c,cpp&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,redis,docker,aws,nginx,kafka,linux,git,github,vscode,idea,java,spring,python,c,cpp&perline=12)](https://skillicons.dev)
 
 </div>
 
