@@ -10,23 +10,12 @@ Pre-final year CS student who leans into open-source and collaborative engineeri
 
 ## Tech I work with
 
-**Languages**
-JavaScript · TypeScript · Java · Python
-**Web & Backend**
-Node.js · Express.js · Spring Boot · React · Next.js
-<sub>APIs · auth · background workers · message queues · rate limiting · cron jobs</sub>
-**Databases**
-PostgreSQL · MySQL · MongoDB · Redis · Prisma · Drizzle ORM
-<sub>SQL & NoSQL · schema design</sub>
-**Architecture & System Design**
-<sub>Caching strategies · reverse proxies · horizontal/vertical scaling</sub>
-**DevOps & Infrastructure**
-Docker · Kubernetes · DigitalOcean · Nginx · Terraform · Ansible · GitHub Actions · Linux
-<sub>CI/CD pipelines · containerization · IaC · reproducible environments</sub>
-**Observability & Messaging**
-Apache Kafka · BullMQ · Prometheus · Grafana
-**Tooling**
-Git · VS Code · Neovim · IntelliJ IDEA
+**Languages** — JavaScript · TypeScript · Java · Python
+**Web & Backend** — React · Next.js · Node.js · Express.js · Spring Boot
+**Databases** — PostgreSQL · MySQL · MongoDB · Redis · Prisma · Drizzle ORM
+**DevOps & Infra** — Docker · DigitalOcean · Nginx · Terraform · Ansible · GitHub Actions · Linux
+**Observability** — Kafka · BullMQ · Prometheus · Grafana
+**Tooling** — Git · VS Code · Neovim · IntelliJ IDEA
 
 <br>
 
